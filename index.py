@@ -1,4 +1,2 @@
-Hello
-
-
-How are you
+name = input("Whats your name")
+print(dbgfb)
