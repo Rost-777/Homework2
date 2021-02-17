@@ -1,2 +1,2 @@
 name = input("Whats your name")
-print(dbgfb)
+print(f"Hello, name")
